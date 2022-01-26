@@ -1,3 +1,8 @@
-*/.ipynb_checkpoints/*
+# no ipynb_checkpoints will be included
+.ipynb_checkpoints
 .DS_Store
+#no dataset will be included
 dataset
+
+# this will be open after 08 Feb 2022 - https://machinehack.com/hackathon/wipro_sustainability_machine_learning_challenge/overview
+Wipro's Sustainability Machine Learning Challenge
